@@ -27,6 +27,9 @@ project "UltimateFryingPan"
 	{
 		includeDir,
 		"%{prj.name}/Source",
+		"%{prj.name}/Source/ECS/Core",
+		"%{prj.name}/Source/ECS/Components",
+		"%{prj.name}/Source/ECS/Systems"
 	}
 
 	libdirs

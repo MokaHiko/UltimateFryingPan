@@ -8,9 +8,16 @@
 #include <sstream>
 #include <vector>
 #include <map>
+#include <array>
 #include <unordered_map>
 #include <unordered_set>
+#include <cstdint>
+#include <cassert>
+#include <queue>
+#include <bitset>
 #include <fstream>
+#include <set>
+#include <random>
 #include <tuple>
 
 // GLM
